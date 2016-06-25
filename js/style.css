@@ -1,0 +1,26 @@
+/*
+ Theme Name: metro-creativex-child
+ Template:   metro-creativex
+ Version:    20150920
+ */
+
+/* twentyfifteen子テーマ用のスタイルを書く */
+@charset "UTF-8";
+@import url("../metro-creativex/style.css");
+.blead, .blead a{color:  #fff}
+
+
+header nav a:nth-child(1),header nav a:nth-child(2),header nav a:nth-child(3),header nav a:nth-child(4){ color:#e6db74; 
+}
+
+header nav a:nth-child(5),header nav a:nth-child(6),header nav a:nth-child(7),header nav a:nth-child(8){ color:#91c42b; 
+}
+header nav a:nth-child(9),header nav a:nth-child(10),header nav a:nth-child(11),header nav a:nth-child(12){ color:#59b8c9; 
+}
+
+#recent-posts-2 li{overflow: hidden; width: 100%;
+}
+#recent-posts-2 ul li ul li{ overflow: hidden;
+text-overflow: ellipsis;
+}
+
