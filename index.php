@@ -29,18 +29,15 @@
   
 
 <script type="text/javascript">
-        // $(function(){
-        // $('.post').imagePopup();
-       //  })
-         
-  // $(document).ready(function(){
-     // $('.post p a').click(function(e){
-        // e.preventDefault(); //ジャンプさせない         
+        
+   $(document).ready(function(){
+      $('.post p a').click(function(e){
+       
          $(function(){
                 $('.post p a').imagePopup();
             });
-      // });
-  // });
+       });
+   });
 
 </script>
   </body>
