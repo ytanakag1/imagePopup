@@ -35,7 +35,7 @@ Yasunori Miyamoto
 	};
 
 	$.fn.setMaxImageSize = function(max_height, max_width){
-		if ($.browser.msie) {
+		if ($.support.msie) {
 			this.each(function(){
 				var h_ratio = 1, w_ratio = 1;
 
