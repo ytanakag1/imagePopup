@@ -16,13 +16,14 @@
 
 <title>出雲川開発</title>
 
-	</head><body>
-	  <header class="header">
-	</header>
+	</head>
+
+<body>
+	 
 <div class="post">
   
-<p><a href="http://ultimai.org/wp-content/uploads/2015/06/edveref4.png">
-  <img  src="http://ultimai.org/wp-content/uploads/2015/06/edveref4-285x300.png"  alt="edveref4"  width="285" height="300">
+<p><a href="/wp-content/uploads/2015/06/edveref4.png">
+  <img  src="/wp-content/uploads/2015/06/edveref4-285x300.png"  alt="edveref4"  width="285" height="300">
   </a>
   </p>
   </div>
